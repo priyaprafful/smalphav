@@ -1,0 +1,12 @@
+{
+  "_cts": {
+    "page": {},
+    "blog-post": {}
+  },
+  "slices": {
+    "BannerSlice": {},
+    "FeaturedImage": {},
+    "TextSlice": {},
+    "TextBlock": {}
+  }
+}
